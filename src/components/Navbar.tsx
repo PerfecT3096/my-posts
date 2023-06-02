@@ -9,7 +9,7 @@ const Navbar = () => {
             href='/'
             className='no-underline dark:hover:text-white/70 hover:text-black/70 transition-colors'
           >
-            MY REVIEW
+            MY POSTS
           </Link>
         </h1>
       </div>

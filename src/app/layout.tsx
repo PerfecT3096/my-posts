@@ -3,7 +3,7 @@ import Navbar from '@components/Navbar'
 import './globals.css'
 
 export const metadata = {
-  title: 'My Review',
+  title: 'My Posts',
   description: 'A blog of myself for review everythings',
 }
 
