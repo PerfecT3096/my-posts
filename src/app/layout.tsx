@@ -15,8 +15,8 @@ const RootLayout = (props: Props) => {
   const { children } = props
 
   return (
-    <html lang='en' className='dark'>
-      <body>
+    <html lang='en'>
+      <body className='bg-white dark:bg-[#1e1e1f] text-black dark:text-white'>
         <Navbar />
         <main className='mx-auto p-3 md:w-[900px]'>{children}</main>
         <Footer />
